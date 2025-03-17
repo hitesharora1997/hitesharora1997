@@ -78,8 +78,3 @@ Here are some of my **best projects** 👇
 
 ---
 
-## 👀 Profile Views & Followers
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitesharora1997&style=flat-square&color=blue" alt="Profile Views">
-  <a href="https://github.com/hitesharora1997?tab=followers"><img src="https://img.shields.io/github/followers/hitesharora1997?label=Followers&style=social"></a>
-</p>
